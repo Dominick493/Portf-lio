@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Meu portfólio</title>
 </head>
+
 <body>
     <header class="container">
     <img src="img/avatar-perfil.png" alt="avatar do nickao" srcset="">
@@ -19,5 +20,6 @@
 </div>
 </header>
 </body>
+
 </html>
 
