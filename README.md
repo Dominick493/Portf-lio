@@ -7,6 +7,7 @@
     <title>Meu portfólio</title>
 </head>
 <body>
+    <header class="container">
     <img src="img/avatar-perfil.png" alt="avatar do nickao" srcset="">
 <P>Eu sou Nickao_</P>
 <h1>Sou estudante de programação</h1>
@@ -16,5 +17,7 @@
     <p>Jogo roblox</p>
     <p>sei desenhar</p>
 </div>
+</header>
 </body>
 </html>
+
