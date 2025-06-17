@@ -13,10 +13,8 @@
 <p>Sou estudante do Berreta, e atualmente estudo programação na escola.</p>
 <p>Minhas Habilidades</p>
 <div>
-    <p>HTML</p>
-    <P>css</P>
-    <p>JavaScript</p>
-    <p>Scratch</p>
+    <p>Jogo roblox</p>
+    <p>sei desenhar</p>
 </div>
 </body>
 </html>
